@@ -1,0 +1,88 @@
+img {
+  display: block;
+  margin: 0 auto;
+}
+
+.intro_container {
+  margin-top: 0px;
+  height: auto;
+  padding-top: 50px;
+  background: radial-gradient(circle, white, #D6DFBD);
+
+}
+
+.myintro {
+  border-bottom: 5px;
+  border-color: black;
+}
+
+.mysectionbottom {
+  background-color: #314202;
+  color: white;
+  margin-top: 0;
+  margin-bottom: 5px;
+}
+
+.bg-danger {
+  width: auto;
+  text-align: center;
+}
+
+.jumbotron {
+  text-align: center;
+  background-color: #D6DFBD;
+  margin-bottom: auto;
+  height: auto;
+  width: 100%;
+}
+
+p.subremark {
+  font-size: 24px;
+}
+
+p.section_title {
+  font-size: 24px;
+  text-align: center;
+  font-weight: bold;
+}
+
+h3.project_name {
+  font-size: 18px;
+  text-align: right;
+  padding: -10px 10px 0 20px;
+}
+
+p.border {
+  border-left: 1px;
+  border-right: 0px;
+  border-top: 0px;
+  border-bottom: 0px;
+  border-style: solid;
+  border-color: black;
+  padding-left: 5px;
+}
+
+.me_row {
+  height: 100px;
+}
+.bg-info-left {
+  width: 60%;
+  background-color: white;
+  margin-left: 50px;
+}
+
+.bg-info-right {
+  width: 25%;
+  background-color: white;
+  margin-left: auto;
+  margin-right: 50px;
+  width: 50%;
+}
+
+.me_container {
+  background: radial-gradient(circle, white, #D6DFBD);
+}
+
+.me_row_title {
+  height: 100px;
+}
