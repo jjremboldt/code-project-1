@@ -28,14 +28,6 @@ img {
   text-align: center;
 }
 
-.jumbotron {
-  text-align: center;
-  background-color: #D6DFBD;
-  margin-bottom: auto;
-  height: auto;
-  width: 100%;
-}
-
 p.subremark {
   font-size: 24px;
 }
@@ -44,6 +36,8 @@ p.section_title {
   font-size: 24px;
   text-align: center;
   font-weight: bold;
+  padding-top: 50px;
+  padding-bottom: 25px;
 }
 
 h3.project_name {
@@ -63,7 +57,7 @@ p.border {
 }
 
 .me_row {
-  height: 100px;
+  height: auto;
 }
 .bg-info-left {
   width: 60%;
