@@ -1,6 +1,13 @@
-img {
-  display: block;
+.jr_pic {
+  display: blocki;
   margin: 0 auto;
+  text-align: center;
+
+}
+
+.projects_container {
+  width: 100%;
+  text-align: center;
 }
 
 .intro_container {
@@ -8,28 +15,15 @@ img {
   height: auto;
   padding-top: 50px;
   background: radial-gradient(circle, white, #D6DFBD);
-
-}
-
-.myintro {
-  border-bottom: 5px;
-  border-color: black;
-}
-
-.mysectionbottom {
-  background-color: #314202;
-  color: white;
-  margin-top: 0;
-  margin-bottom: 5px;
-}
-
-.bg-danger {
-  width: auto;
-  text-align: center;
 }
 
 p.subremark {
   font-size: 24px;
+}
+
+.col-md-4 {
+  padding: 0px 0px 0px 0px;
+  margin: 0px 0px 0px 0px;
 }
 
 p.section_title {
@@ -40,10 +34,17 @@ p.section_title {
   padding-bottom: 25px;
 }
 
-h3.project_name {
-  font-size: 18px;
-  text-align: right;
-  padding: -10px 10px 0 20px;
+h2.section_title {
+  font-size: 24px;
+  text-align: center;
+  padding: 10px 10px 0 20px;
+  font-weight: bold;:
+}
+
+h3.my_projects {
+  font-size: 14px;
+  text-align: center;
+  padding: 10px 10px 0 20px;
 }
 
 p.border {
@@ -59,6 +60,13 @@ p.border {
 .me_row {
   height: auto;
 }
+
+h3.about_me {
+  text-align: right;
+  font-size: 16px;
+  font-weight: bold;
+}
+
 .bg-info-left {
   width: 60%;
   background-color: white;
